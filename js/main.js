@@ -8,7 +8,7 @@ var month = [
 var week = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 
 var lectures = [
-  //[],
+  ["HOLIDAY", "","","","","","","","","",""],
   ["PM C101", "IC C101", "BREAK", "DS Pract C103", "", "BREAK", "", "", "BREAK", "", ""],
   ["DS C001", "ECO C001", "BREAK", "CS C001", "", "BREAK", "EWP C104", "", "BREAK", "IC Pracct. C105", ""],
   ["", "", "BREAK", "CE1 C205", "", "BREAK", "", "", "BREAK", "", ""],
